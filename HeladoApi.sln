@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeladoApi", "HeladoApi\HeladoApi.csproj", "{A0F73939-7218-4E43-8306-BA7BBC689D7A}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{135DBBAD-0DC0-41EC-99D3-D3FDAA7D784C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F73939-7218-4E43-8306-BA7BBC689D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F73939-7218-4E43-8306-BA7BBC689D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F73939-7218-4E43-8306-BA7BBC689D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F73939-7218-4E43-8306-BA7BBC689D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135DBBAD-0DC0-41EC-99D3-D3FDAA7D784C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135DBBAD-0DC0-41EC-99D3-D3FDAA7D784C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135DBBAD-0DC0-41EC-99D3-D3FDAA7D784C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135DBBAD-0DC0-41EC-99D3-D3FDAA7D784C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C25A61D-73A7-4743-B244-0E1EE3887472}
+	EndGlobalSection
+EndGlobal
